@@ -85,8 +85,4 @@ public class ChattingRoomUI extends JFrame {
         contentPanel.add(sendMessagePanel);
     }
 
-    public static void main(String[] args) {
-        ChattingRoomUI chattingRoomUI = new ChattingRoomUI();
-        chattingRoomUI.setVisible(true);
-    }
 }
