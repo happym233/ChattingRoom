@@ -1,13 +1,13 @@
-#Chatting room
+# Chatting room
 ___
 
 a simple chatting room implemented by Java Socket and multi-programming
 
 ![](./figure/result.gif)
 
-##Client
+## Client
 ___
-###Structure
+### Structure
 
 
 .
@@ -22,13 +22,13 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Main.java
 
-###Run
+### Run
 
 Main.java
 
-##Server
+## Server
 ___
-###Structure
+### Structure
 
 
 └─main
@@ -41,7 +41,7 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Server.java
 
-###Run
+### Run
 
 Main.java
 
